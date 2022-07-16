@@ -1,4 +1,4 @@
-use std::{io::{stdin, stdout, Write}, cell::RefCell};
+use std::{io::{stdin, stdout, Write}};
 
 struct Todo {
     title: String,
